@@ -8,7 +8,6 @@
 - React
 - TypeScript
 - Vite
-- Storybook
 - Styled-Components
 - ESLint
 - Editorconfig

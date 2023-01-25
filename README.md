@@ -1,16 +1,23 @@
 <h1 align='center'>
-    Boilerplate Front-End Project Vite+TS+React+Storybook+ESLint
+    <img src='./.github/github-banner.png'>
 </h1>
+
+<div align='center'>
+
+  <img src='https://skillicons.dev/icons?i=vite,react,styledcomponents,eslint&perline=3'>
+</div>
+
 
 ## 🚀 Setup
 
 - **npm**
-- React
-- TypeScript
-- Vite
-- Styled-Components
-- ESLint
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [Styled-Components](https://styled-components.com/)
+- [ESLint](https://eslint.org/)
 - Editorconfig
+- [Commitizen](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Libraries
 
@@ -32,18 +39,24 @@
 | `npm run preview` | Preview your build locally, before deploying |
 
 
-## 🚀 Project Structure
+## 📂 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Inside of your Boilerplate, you'll see the following folders and files:
 
 ```
-/
+
 ├── public/
-│   ├── robots.txt
 │   └── favicon.ico
 ├── src/
 │   ├── components/
-│   │   └── Tour.astro
-│   └── pages/
-│       └── index.astro
-└── package.jso
+│   │   └── Heading
+│   │
+│   ├── contexts/
+│   │   └── Context
+│   │
+│   ├── hooks/
+│   │      └── useHook
+│   │
+└── pages/
+│         └── Home
+└── package.json

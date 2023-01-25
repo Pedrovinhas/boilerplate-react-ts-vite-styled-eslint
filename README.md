@@ -1,14 +1,11 @@
-<h1 align='center'>
-    <img src='./.github/github-banner.png'>
-</h1>
+
+![Boilerplate Banner](./.github/github-banner.png)
 
 <div align='center'>
-
-  <img src='https://skillicons.dev/icons?i=vite,react,styledcomponents,eslint&perline=3'>
+  <img src='https://skillicons.dev/icons?i=vite,react,styledcomponents,eslint&'>
 </div>
 
-
-## 🚀 Setup
+# 🚀 Setup
 
 - **npm**
 - [React](https://pt-br.reactjs.org/)

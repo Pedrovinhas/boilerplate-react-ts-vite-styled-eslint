@@ -59,7 +59,9 @@ Inside of your Boilerplate, you'll see the following folders and files:
 └── package.json
 ```
 
-## 🔗 Commitizen friendly
+## 🔗 Convetional Commits
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 All commits message should be structured as follows:
 - ``<type>[optional scope]: <description>``
 
